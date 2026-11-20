@@ -1,0 +1,70 @@
+[18Nov2026 08:57:43.388] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_userdev_server, --gameDir, ., --nogui]
+[18Nov2026 08:57:43.393] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as JetBrains s.r.o. OpenJDK 64-Bit Server VM 21.0.11+1-b1163.125
+[18Nov2026 08:57:43.394] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.11 by JetBrains s.r.o.; OS Windows 11 arch amd64 version 10.0
+[18Nov2026 08:57:43.679] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_userdev_server
+[18Nov2026 08:57:44.279] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=jar:file:///C:/Users/heinz/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar!/ Service=ModLauncher Env=SERVER
+[18Nov2026 08:57:47.809] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[18Nov2026 08:57:49.713] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_userdev_server' with arguments [--gameDir, ., --nogui]
+[18Nov2026 08:57:50.523] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///C:/Users/heinz/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.10/b1d8ab82d11d92fd639b56d639f8f46f739dd5fa/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/C:/Users/heinz/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.10/b1d8ab82d11d92fd639b56d639f8f46f739dd5fa/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///C:/Users/heinz/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.10/b1d8ab82d11d92fd639b56d639f8f46f739dd5fa/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/C:/Users/heinz/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.10/b1d8ab82d11d92fd639b56d639f8f46f739dd5fa/oshi-core-6.4.10.jar!/oshi.properties]
+[18Nov2026 08:57:50.981] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///C:/Users/heinz/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.10/b1d8ab82d11d92fd639b56d639f8f46f739dd5fa/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/C:/Users/heinz/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.10/b1d8ab82d11d92fd639b56d639f8f46f739dd5fa/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///C:/Users/heinz/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.10/b1d8ab82d11d92fd639b56d639f8f46f739dd5fa/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/C:/Users/heinz/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.10/b1d8ab82d11d92fd639b56d639f8f46f739dd5fa/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[18Nov2026 08:58:02.311] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 50.2.15, for MC 1.20.6 with MCP 20240429.135109
+[18Nov2026 08:58:02.318] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v50.2.15 Initialized
+[18Nov2026 08:58:02.336] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[18Nov2026 08:58:03.126] [modloading-worker-0/INFO] [heinzPlugin.portalgun.Portalgun/]: HELLO FROM COMMON SETUP
+[18Nov2026 08:58:03.127] [modloading-worker-0/INFO] [heinzPlugin.portalgun.Portalgun/]: DIRT BLOCK >> minecraft:dirt
+[18Nov2026 08:58:03.127] [modloading-worker-0/INFO] [heinzPlugin.portalgun.Portalgun/]: DIRT BLOCK >> minecraft:dirt
+[18Nov2026 08:58:03.128] [modloading-worker-0/INFO] [heinzPlugin.portalgun.Portalgun/]: The magic number is... 42
+[18Nov2026 08:58:03.128] [modloading-worker-0/INFO] [heinzPlugin.portalgun.Portalgun/]: ITEM >> iron_ingot
+[18Nov2026 08:58:03.423] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[18Nov2026 08:58:04.656] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 50.2.15 Target: null
+[18Nov2026 08:58:05.391] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18Nov2026 08:58:05.560] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/heinz/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.6-50.2.15_mapped_official_1.20.6/forge-1.20.6-50.2.15_mapped_official_1.20.6-recomp.jar%230!/assets/.mcassetsroot' uses unexpected schema
+[18Nov2026 08:58:05.560] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/heinz/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.6-50.2.15_mapped_official_1.20.6/forge-1.20.6-50.2.15_mapped_official_1.20.6-recomp.jar%230!/data/.mcassetsroot' uses unexpected schema
+[18Nov2026 08:58:05.606] [main/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: Injecting existing registry data into this CLIENT instance
+[18Nov2026 08:58:09.540] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1175 recipes
+[18Nov2026 08:58:09.992] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1276 advancements
+[18Nov2026 08:58:11.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.6
+[18Nov2026 08:58:11.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[18Nov2026 08:58:11.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: CREATIVE
+[18Nov2026 08:58:11.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[18Nov2026 08:58:11.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[18Nov2026 08:58:11.328] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
+[18Nov2026 08:58:11.418] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18Nov2026 08:58:11.418] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[18Nov2026 08:58:11.418] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18Nov2026 08:58:11.418] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[18Nov2026 08:58:11.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[18Nov2026 08:58:15.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[18Nov2026 08:58:18.347] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Nov2026 08:58:18.410] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Nov2026 08:58:18.420] [Worker-Main-10/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Nov2026 08:58:18.432] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Nov2026 08:58:18.455] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Nov2026 08:58:18.465] [Worker-Main-10/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Nov2026 08:58:18.467] [Worker-Main-10/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Nov2026 08:58:18.565] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Nov2026 08:58:19.023] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Nov2026 08:58:19.521] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 36%
+[18Nov2026 08:58:19.981] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4961 ms
+[18Nov2026 08:58:19.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.543s)! For help, type "help"
+[18Nov2026 08:58:20.010] [Server thread/INFO] [net.minecraftforge.gametest.ForgeGameTestHooks/]: Enabled Gametest Namespaces: [portalgun]
+[18Nov2026 08:58:20.010] [LanServerPinger #1/WARN] [net.minecraft.client.server.LanServerPinger/]: LanServerPinger: Network is unreachable: sendto
+[18Nov2026 08:58:20.023] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[18Nov2026 08:58:20.025] [Server thread/INFO] [heinzPlugin.portalgun.Portalgun/]: HELLO FOR SERVER
+[18Nov2026 08:58:29.576] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HeinzWasEaten[/127.0.0.1:53629] logged in with entity id 82 at (-85.69999998807907, 83.0, 218.17136985255547)
+[18Nov2026 08:58:29.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HeinzWasEaten joined the game
+[18Nov2026 08:58:42.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HeinzWasEaten moved too quickly! -12.79825030299422,1.0,13.418916829646378
+[18Nov2026 08:58:44.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HeinzWasEaten moved too quickly! 12.366144949797459,0.0,-13.306599070005262
+[18Nov2026 08:58:44.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HeinzWasEaten moved too quickly! 12.366144949797459,0.0,-13.306599070005262
+[18Nov2026 08:58:44.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HeinzWasEaten moved too quickly! 12.366144949797459,0.0,-13.306599070005262
+[18Nov2026 08:58:46.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HeinzWasEaten moved too quickly! -11.800000011920929,1.0,14.049554802202351
+[18Nov2026 08:58:46.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HeinzWasEaten moved too quickly! -11.800000011920929,1.0,14.049554802202351
+[18Nov2026 08:58:46.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HeinzWasEaten moved too quickly! -11.800000011920929,1.0,14.049554802202351
+[18Nov2026 08:58:52.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HeinzWasEaten moved too quickly! 11.218408696057239,0.0,-14.7811743147343
+[18Nov2026 09:11:03.338] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HeinzWasEaten lost connection: Disconnected
+[18Nov2026 09:11:03.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HeinzWasEaten left the game
+[18Nov2026 09:14:13.859] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HeinzWasEaten[/127.0.0.1:63536] logged in with entity id 1726 at (-84.11578594008537, 83.0, 219.30798975170177)
+[18Nov2026 09:14:13.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HeinzWasEaten joined the game
+[18Nov2026 09:14:21.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HeinzWasEaten> HeinzWasEaten
+[18Nov2026 09:14:23.981] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HeinzWasEaten lost connection: Disconnected
+[18Nov2026 09:14:23.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HeinzWasEaten left the game
